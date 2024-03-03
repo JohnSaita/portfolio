@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="120">
+    <!-- Your logo path here -->
+    <path fill="none" d="M0 0h24v24H0V0z"/>
+    <path d="M11 14v-3h2v3h3v2h-3v3h-2v-3H8v-2z"/>
+    <path d="M22 5.63l-9.63 9.63-5.14-5.14L2 16.11l3.85 3.85L13.85 8z"/>
+    <text x="3" y="24" font-family="Arial" font-size="5" fill="black">Geotelesphere</text>
+</svg>
