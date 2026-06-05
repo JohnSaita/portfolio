@@ -22,7 +22,11 @@ function RecentJobs({ jobs }) {
           {jobs.map((job) => (
             <article className="job-card" key={job.title}>
               {job.image ? (
-                <img src={job.image} alt="" loading="lazy" />
+                <img
+                  src={import.meta.env.BASE_URL + job.image}
+                  alt=""
+                  loading="lazy"
+                />
               ) : (
                 <JobVisual
                   icon={job.visual?.icon}
