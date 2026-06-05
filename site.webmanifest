@@ -1,0 +1,14 @@
+{
+  "name": "John Saitabau Portfolio",
+  "short_name": "John Portfolio",
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#24372f",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
