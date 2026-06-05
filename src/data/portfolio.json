@@ -1,0 +1,245 @@
+{
+  "profile": {
+    "name": "John Saitabau",
+    "role": "Geospatial Engineer & GIS Consultant",
+    "location": "Nairobi, Kenya",
+    "email": "jsaita47@gmail.com",
+    "phone": "+254715165000",
+    "availability": "Available for GIS consulting, web mapping, and spatial data projects",
+    "intro": "I turn spatial data into clear decisions through GIS analysis, remote sensing, cartography, and interactive web mapping.",
+    "heroTitle": "Geospatial insight for teams that need maps to become decisions.",
+    "heroSubtitle": "I help organizations analyze complex spatial data, build usable mapping tools, and communicate geographic findings with confidence.",
+    "heroImage": "/images/intro-bg.jpg",
+    "portrait": "/images/saita.jpg",
+    "resumeUrl": "#contact",
+    "aboutTitle": "Empowering people with GIS solutions",
+    "about": [
+      "I am a dedicated geospatial engineer with a bachelor's degree in Geospatial Engineering from the University of Nairobi. My work focuses on using GIS, remote sensing, spatial analysis, cartography, and web mapping to solve practical problems.",
+      "I have collaborated with organizations including Robocist, Geodata, Geotelesphere, and Fiverr clients, delivering spatial analysis, map design, web mapping applications, training, and data-management support.",
+      "My approach is collaborative and context-aware. I work closely with stakeholders to understand the decision behind the map, then design geospatial products that are accurate, readable, and useful in the field."
+    ],
+    "stats": [
+      {
+        "value": "5+",
+        "label": "Core GIS disciplines"
+      },
+      {
+        "value": "4",
+        "label": "Partner brands served"
+      },
+      {
+        "value": "100%",
+        "label": "Practical spatial focus"
+      }
+    ],
+    "socials": [
+      {
+        "label": "Email",
+        "url": "mailto:jsaita47@gmail.com",
+        "icon": "Mail"
+      },
+      {
+        "label": "Phone",
+        "url": "tel:+254715165000",
+        "icon": "Phone"
+      },
+      {
+        "label": "Location",
+        "url": "https://maps.google.com/?q=Nairobi%2C%20Kenya",
+        "icon": "MapPin"
+      }
+    ]
+  },
+  "navigation": [
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Expertise",
+      "href": "#expertise"
+    },
+    {
+      "label": "Services",
+      "href": "#services"
+    },
+    {
+      "label": "Recent Jobs",
+      "href": "#recent-jobs"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "expertise": [
+    {
+      "title": "Geographic Information Systems",
+      "summary": "Spatial data preparation, mapping, analysis, and decision support using ArcGIS, QGIS, and modern GIS workflows.",
+      "icon": "Map"
+    },
+    {
+      "title": "Remote Sensing",
+      "summary": "Satellite and aerial imagery interpretation for land-cover insights, environmental monitoring, and change detection.",
+      "icon": "Satellite"
+    },
+    {
+      "title": "Spatial Analysis",
+      "summary": "Proximity analysis, interpolation, overlay modeling, and spatial statistics that reveal patterns hidden in raw data.",
+      "icon": "ScanSearch"
+    },
+    {
+      "title": "Cartography & Map Design",
+      "summary": "Readable, polished maps that communicate technical information to clients, communities, and decision makers.",
+      "icon": "Layers"
+    },
+    {
+      "title": "Web Mapping",
+      "summary": "Interactive web maps and spatial dashboards built with Leaflet, Mapbox, JavaScript, and responsive interfaces.",
+      "icon": "Globe2"
+    },
+    {
+      "title": "Research & Discovery",
+      "summary": "Structured exploration of geospatial methods, data sources, and technologies to unlock better project outcomes.",
+      "icon": "Search"
+    }
+  ],
+  "tools": [
+    "ArcGIS Pro",
+    "QGIS",
+    "Leaflet",
+    "Mapbox",
+    "Python",
+    "JavaScript",
+    "PostGIS",
+    "Excel Automation",
+    "Remote Sensing",
+    "Cartographic Design"
+  ],
+  "services": [
+    {
+      "title": "GIS Analysis",
+      "summary": "Spatial modeling, map production, data cleaning, and advanced analysis that help teams make location-aware decisions.",
+      "icon": "MapPinned"
+    },
+    {
+      "title": "Remote Sensing & Image Analysis",
+      "summary": "Imagery processing for land-cover mapping, environmental monitoring, and geographic change detection.",
+      "icon": "SatelliteDish"
+    },
+    {
+      "title": "Web Mapping Development",
+      "summary": "Interactive maps and lightweight GIS tools that make spatial data accessible on any device.",
+      "icon": "MonitorSmartphone"
+    },
+    {
+      "title": "Cartography & Data Visualization",
+      "summary": "Clear maps, dashboards, and presentation-ready visuals for technical and non-technical audiences.",
+      "icon": "Palette"
+    },
+    {
+      "title": "Consulting & Training",
+      "summary": "Project guidance, workflow design, and tailored GIS training for individuals, teams, and organizations.",
+      "icon": "GraduationCap"
+    }
+  ],
+  "recentJobs": [
+    {
+      "title": "Empowering Clients with ArcGIS Pro Skills",
+      "category": "GIS Training",
+      "year": "2024",
+      "summary": "Delivered personalized ArcGIS Pro training sessions that helped clients analyze spatial data and create professional maps.",
+      "image": "/images/saita.jpg",
+      "tools": ["ArcGIS Pro", "Training", "Cartography"],
+      "result": "Hands-on learning path with practical mapping exercises",
+      "link": ""
+    },
+    {
+      "title": "Interactive WebMaps for Robocist",
+      "category": "Web Mapping",
+      "year": "2024",
+      "summary": "Collaborated with Robocist to develop dynamic web maps with usable interfaces and spatial data visualization.",
+      "image": "/images/robocist.jpg",
+      "tools": ["Leaflet", "JavaScript", "GIS"],
+      "result": "Improved client engagement with map-based exploration",
+      "link": "#contact"
+    },
+    {
+      "title": "Excel to PDF Automation",
+      "category": "Python Script",
+      "year": "2024",
+      "summary": "Built a Python workflow for converting Excel files into polished PDFs, reducing repetitive document-management work.",
+      "visual": {
+        "icon": "FileCode2",
+        "variant": "automation"
+      },
+      "tools": ["Python", "Excel", "PDF"],
+      "result": "Faster reporting workflow for recurring deliverables",
+      "link": "#contact"
+    },
+    {
+      "title": "Buffer Maps for Spatial Analysis",
+      "category": "Spatial Analysis",
+      "year": "2024",
+      "summary": "Created buffer maps to evaluate proximity relationships for urban planning and environmental management questions.",
+      "visual": {
+        "icon": "Route",
+        "variant": "spatial"
+      },
+      "tools": ["QGIS", "Spatial Analysis", "Cartography"],
+      "result": "Clear decision maps for location-based planning",
+      "link": "#contact"
+    },
+    {
+      "title": "Geodatabase Management",
+      "category": "Data Management",
+      "year": "2024",
+      "summary": "Designed geodatabase workflows that support reliable editing, updating, and quality control for spatial features.",
+      "visual": {
+        "icon": "Database",
+        "variant": "database"
+      },
+      "tools": ["Geodatabase", "Data QA", "GIS"],
+      "result": "Improved data integrity across project layers",
+      "link": "#contact"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Geotelesphere",
+      "logo": "/images/geotelesphere.jpeg"
+    },
+    {
+      "name": "Geodata",
+      "logo": "/images/geodata.jpg"
+    },
+    {
+      "name": "Robocist",
+      "logo": "/images/robocist.jpg"
+    },
+    {
+      "name": "Fiverr",
+      "logo": "/images/fiver.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Exceeded my expectations! He even made a PowerPoint to track progress and address what I was to learn point by point. I would 10000% recommend John for any GIS work.",
+      "name": "Belkin",
+      "role": "Fiverr Client",
+      "avatar": "/images/belkin.jpg"
+    },
+    {
+      "quote": "Working with John has been an absolute pleasure. His expertise in geospatial engineering, attention to detail, and dedication to high-quality results have exceeded my expectations.",
+      "name": "Dr. David Siriba",
+      "role": "Geotelesphere Co.",
+      "avatar": "/images/siriba.JPG"
+    },
+    {
+      "quote": "John's expertise in geospatial engineering significantly elevated our web mapping projects. His handling of GIS technologies and detail-focused delivery made collaboration easy.",
+      "name": "Jeff",
+      "role": "Robocist Co.",
+      "avatar": "/images/avatars/user-06.jpg"
+    }
+  ]
+}
